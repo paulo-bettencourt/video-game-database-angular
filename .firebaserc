@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "video-games-a1fde"
+  },
+  "targets": {
+    "video-games-a1fde": {
+      "hosting": {
+        "ng-video-game-db": [
+          "video-games-a1fde"
+        ]
+      }
+    }
+  }
+}
