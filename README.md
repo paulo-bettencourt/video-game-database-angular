@@ -16,7 +16,7 @@ You can see a live version of this app at:
 
 ## Screenshots
 
-<img width="1792" alt="Screenshot 2022-01-04 at 18 08 35" src="https://user-images.githubusercontent.com/37920932/148111180-b03f7a9b-b305-4e94-82db-27ba7253f867.png">
+<img width="1792" alt="Screenshot 2022-01-04 at 18 09 26" src="https://user-images.githubusercontent.com/37920932/148141344-b0d59d3e-87ae-484e-a107-dd1abe20c0a2.png">
 
 <img width="1792" alt="Screenshot 2022-01-04 at 18 08 42" src="https://user-images.githubusercontent.com/37920932/148111228-66227fe9-10fe-4129-b16a-7d5acb13e311.png">
 
